@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="forchenshan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="santoo.war">
+      <element id="artifact" artifact-name="forchenshan:war exploded" />
+    </root>
+  </artifact>
+</component>
